@@ -26,7 +26,8 @@
 
 
 
-For this project we decide to make a game " Printing ASCII Art"
+For this project we decide to make a game " Printing ASCII Art". Example of this game is when we write "A" program will cout ![image](https://user-images.githubusercontent.com/63903998/109429643-70279700-7a05-11eb-8fb3-b121be821287.png)
+
 
 
 
