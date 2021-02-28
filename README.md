@@ -13,5 +13,27 @@
  
  Кристиян Цветков --- Front End
  
- Mертин Дикмешефкет --- Back End
+ Mертин Дикмешефкет --- Quality Engineer
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/63903998/109425556-73188c80-79f1-11eb-8da5-bd1a78b54980.png)  
+
+
+
+
+For this project we decide to make a game " Printing ASCII Art"
+
+
+
+
+
+
+
+
+
 
