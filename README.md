@@ -14,6 +14,8 @@
  Кристиян Цветков --- Front End
  
  Mертин Дикмешефкет --- Quality Engineer
+ 
+ Добромир Иванов --- Back End
 
 
 
