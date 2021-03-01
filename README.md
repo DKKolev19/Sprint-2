@@ -26,10 +26,11 @@
 ![image](https://user-images.githubusercontent.com/63903998/109425556-73188c80-79f1-11eb-8da5-bd1a78b54980.png)  
 
 
+                                                                           	Text to Ascii Art
+For this project, our team made a program that prints out ASCII art of symbols from the user’s input. It’s not technically a game but it uses string manipulation and is solely for fun. The art is also made from the letters themselves, for example: a capital “A” looks like this:
 
-
-For this project we decide to make a game " Printing ASCII Art". Example of this game is when we write "A" program will cout  
 ![image](https://user-images.githubusercontent.com/63903998/109430986-ba604680-7a0c-11eb-8d45-280a92bd8aa8.png)
+
 
 
 
