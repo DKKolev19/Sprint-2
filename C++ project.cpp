@@ -7,7 +7,8 @@ using namespace std;
 void ascii_art()
 {
 	string input;
-	cout << "This is an ASCII Art." << endl << " - Please write a word or sentence: "; getline(cin, input);
+	cout << "This is an ASCII Art." << endl << " - Please write a word or sentence: "; 
+	getline(cin, input);
 	//loop will print first layer
 	for (int i = 0; i < input.size(); i++)
 	{
