@@ -11,7 +11,7 @@
                                               
  Даниел Колев --- Scrum Trainer
  
- Кристиян Цветков --- Front End
+ Кристиaн Цветков --- Front End
  
  Mертин Дикмешефкет --- Quality Engineer
  
