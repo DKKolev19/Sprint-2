@@ -13,7 +13,7 @@
  
  Кристиaн Цветков --- Front End
  
- Mертин Дикмешефкет --- Quality Engineer
+ SHEFEEEEEEEEEEEEEEEEEEEE - SHEFend
  
  Добромир Иванов --- Back End
 
